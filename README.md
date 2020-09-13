@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
 
-Welcome to my page, I am Mihai, .NET enthusiast, living in Bucharest, Romania :flag-ro:.
+Welcome to my page, I am Mihai, .NET enthusiast, living in Bucharest, Romania 🇷🇴.
 
 <h3>Things I code with:</h3>
 <p>
@@ -22,7 +22,7 @@ Welcome to my page, I am Mihai, .NET enthusiast, living in Bucharest, Romania :f
   </thead>
   <tbody>
     <tr>
-	    <td><a href=https://github.com/mihaimyh/HookTrigger"><b>AspNetCore app using Kafka pub/sub.</b></a></td>
+	    <td><a href="https://github.com/mihaimyh/HookTrigger"><b>AspNetCore app using Kafka pub/sub.</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/mihaimyh/hookTrigger?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/mihaimyh/hookTrigge?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/mihaimyh/hookTrigge?style=flat-square&labelColor=343b41"/></td>

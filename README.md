@@ -36,9 +36,9 @@ Welcome to my page, I am Mihai, .NET enthusiast, living in Bucharest, Romania ðŸ
       <td><img alt="Forks" src="https://img.shields.io/github/forks/mihaimyh/HookTrigger?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/mihaimyh/HookTrigger?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/mihaimyh/HookTrigger?style=flat-square&labelColor=343b41"/></td>
-      <td>Worker: <img alt="Worker Docker Image" src="https://img.shields.io/docker/v/mihaimyh/hooktrigger-worker?style=flat-square&labelColor=343b41"/>
+      <td><img alt="Docker Image Version (latest by date)" src="https://img.shields.io/docker/v/mihaimyh/hooktrigger-api?label=API version">
       <br>
-      API: <img alt="API Docker Image" src="https://img.shields.io/docker/v/mihaimyh/hooktrigger-api?style=flat-square&labelColor=343b41"/>
+      <img alt="Docker Image Version (latest by date)" src="https://img.shields.io/docker/v/mihaimyh/hooktrigger-worker?label=Worker version">
       </td>
     </tr>
     <tr>

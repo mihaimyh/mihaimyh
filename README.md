@@ -40,15 +40,6 @@ Welcome to my page, I am Mihai, .NET enthusiast, living in Bucharest, Romania ðŸ
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/mihaimyh/MovingPicturesEvents?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Docker Image" src="https://img.shields.io/docker/v/mihaimyh/laurkyt?style=flat-square&labelColor=343b41"/></td>
     </tr>
-	  <tr>
-		  <td><a href="https://github.com/mihaimyh/SdeHelper" target="_blank"><b>SdeHelper (WPF app)</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/mihaimyh/sdeHelper?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/mihaimyh/sdeHelper?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/mihaimyh/sdeHelper?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/mihaimyh/sdeHelper?style=flat-square&labelColor=343b41"/></td>
-      <td>N/A</td>
-    </tr>
-    <tr>
 	  <td><a href="https://github.com/mihaimyh/HookTrigger" target="_blank"><b>HookTrigger <sup>Alpha<sup></b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/mihaimyh/HookTrigger?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/mihaimyh/HookTrigger?style=flat-square&labelColor=343b41"/></td>
